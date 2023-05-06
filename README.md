@@ -23,6 +23,7 @@ dans cette interface l'utilisateur saisir email et mot de passe pour connecter
    ![image](https://user-images.githubusercontent.com/97534220/236627375-ec4c5bd3-2ef9-44cf-a122-275cc58972da.png)
 ##### -- la fonction Change_pass
 Cette fonction permet de mettre à jour le mot de passe dans la base de données
+![image](https://user-images.githubusercontent.com/97534220/236627603-7efb43df-0083-4118-a5b2-b6c59974c945.png)
 
 ### 3 - Interface SignUp :
 Si l'utilisateur n'a pas de compte,il peut créer un compte 
