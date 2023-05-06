@@ -13,4 +13,6 @@ dans cette interface l'utilisateur saisir email et mot de passe pour connecter
 ![login](https://user-images.githubusercontent.com/97534220/236587622-eab37cb1-7bee-45d7-a0a1-50b45ee7048c.jpg)
 ### 3 - Interface SignUp :
 Si l'utilisateur n'a pas de compte,il peut créer un compte 
+![signup](https://user-images.githubusercontent.com/97534220/236587964-8836e173-c40e-4323-81bb-b02aef3d2d1a.jpg)
+### 4 - Inerface pour changer mot de passe 
 
