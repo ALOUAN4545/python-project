@@ -47,3 +47,4 @@ On a 4 fonction :
 
 ------La fonction show
 ![image](https://user-images.githubusercontent.com/97534220/236628340-459cbd5e-8d7d-4db5-b365-6b927a52b882.png)
+------La fonction upload_image
