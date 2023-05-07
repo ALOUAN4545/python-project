@@ -37,7 +37,7 @@ dans cette interface on peut add,show,delete,update des voiture a l'aide des fon
 On a 4 fonction :
 
 ------La fonction add
-![image](https://user-images.githubusercontent.com/97534220/236628139-9ac91270-6d7b-4418-86d4-ab475673b658.png)
+![image](https://user-images.githubusercontent.com/97534220/236706824-c0eff19e-5d33-40ad-8fe5-6d87ccc75b58.png)
 
 ------La fonction update
 ![image](https://user-images.githubusercontent.com/97534220/236628245-88ae6f6e-b7df-4a91-bf95-b68c5fc31933.png)
